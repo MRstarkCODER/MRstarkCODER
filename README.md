@@ -1,6 +1,6 @@
-Hi there 👋
+_****Hi there 👋****_
 
-Thanks for visiting my GitHub profile, it's great to meet you here! 😊
+**Thanks for visiting my GitHub profile, it's great to meet you here! 😊**
 
 Here are some quick things about me:
 
@@ -10,4 +10,5 @@ Here are some quick things about me:
 - 🧑‍💻 Coding is my passion.
 - 📫 The best way to reach me is to send me an email.
 - ⚡ Fun fact: I once drove to the Half Moon Bay for sun rise.
+
 Last but not the least, we're hiring at Sourcegraph!
