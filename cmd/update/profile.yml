@@ -1,0 +1,17 @@
+projects:
+  - icon: 🍩
+    name: Go Code Convention
+    link: https://github.com/unknwon/go-code-convention
+    desc: A opinionated and paranoid Go code convention
+  - icon: 🎃
+    link: https://github.com/gogs/Gogs
+    desc: A painless self-hosted Git service [gogs.io](https://gogs.io)
+  - icon: 🐣
+    link: https://github.com/sourcegraph/Sourcegraph
+    desc: Universal code search [sourcegraph.com](https://sourcegraph.com)
+  - icon: 🧙
+    link: https://github.com/flamego/Flamego
+    desc: A fantastic modular Go web framework boiled with dependency injection [flamego.dev](https://flamego.dev)
+  - icon: 🐳
+    link: https://github.com/go-ini/INI
+    desc: INI file read and write functionality in Go [ini.unknwon.io](https://ini.unknwon.io)
